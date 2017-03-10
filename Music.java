@@ -1,4 +1,3 @@
-
 public class Music {
     private String year;
     private String title;
